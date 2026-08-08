@@ -106,3 +106,5 @@ env/
 datos_salida/*.xlsx
 datos_salida/*.json
 !datos_salida/.gitkeep
+
+script de roblox/
